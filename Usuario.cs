@@ -8,7 +8,5 @@ public class Usuario
     private String nome;
     private int cpf;
     private int idade;
-    private String livrosComprados;
-    private String sugestoes;
-    private String saldo;
+
 }
